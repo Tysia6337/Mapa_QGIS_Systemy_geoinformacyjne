@@ -1,0 +1,1 @@
+# Mapa_QGIS_Systemy_geoinformacyjne
